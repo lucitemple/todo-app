@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ToDoItem from "./ToDoItem";
 import todosData from "./todosData";
+import "./index.css";
 
 export default class App extends Component {
   constructor(props) {
